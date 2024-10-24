@@ -1,0 +1,17 @@
+.btn{
+    background-color:rgb(7, 7, 68);
+    color:white;
+    font-size: larger;
+    width: 100px;
+    height: 40px;
+    padding:5px;
+    border-radius: 5px;
+}
+.flex{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100vw;
+height: 100vh;
+}
